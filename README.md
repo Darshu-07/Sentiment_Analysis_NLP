@@ -44,5 +44,6 @@ Both the steps and the techniques in this project model a real-life scenario. If
 The Amazon review dataset can be downloaded from [here](https://nijianmo.github.io/amazon/index.html). Download the zipped json file of the category of video games 5 core, which can be found under the title Small subsets for experimentation. Once the download is complete, extract the file.
 
 
+<img width="785" height="656" alt="Screenshot 2025-07-12 234831" src="https://github.com/user-attachments/assets/ab0cc193-e9f5-48e1-a9a1-c7d8411f8fde" />
 
 
