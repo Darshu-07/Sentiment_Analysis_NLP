@@ -46,4 +46,11 @@ The Amazon review dataset can be downloaded from [here](https://nijianmo.github.
 
 <img width="785" height="656" alt="Screenshot 2025-07-12 234831" src="https://github.com/user-attachments/assets/ab0cc193-e9f5-48e1-a9a1-c7d8411f8fde" />
 
+<img width="1293" height="763" alt="Screenshot 2025-07-12 234813" src="https://github.com/user-attachments/assets/6aa4f391-b70c-4b94-ba1b-0849e569fbc6" />
+
+<img width="684" height="462" alt="Screenshot 2025-07-12 234755" src="https://github.com/user-attachments/assets/e6c06824-2cbc-41ca-bb87-831b1ef4e475" />
+
+<img width="690" height="464" alt="Screenshot 2025-07-12 234737" src="https://github.com/user-attachments/assets/02cdd973-9137-4a03-8593-d8018eed4fe7" />
+
+
 
